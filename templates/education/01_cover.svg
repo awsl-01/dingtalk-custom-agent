@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- 背景 -->
+  <rect width="1280" height="720" fill="{{BG_COLOR}}"/>
+
+  <!-- 顶部装饰 -->
+  <rect x="0" y="0" width="1280" height="100" fill="{{HEADER_BG}}"/>
+  <rect x="0" y="0" width="6" height="100" fill="{{ACCENT}}"/>
+
+  <!-- 右上角学科标识 -->
+  <text x="1200" y="58" text-anchor="end" fill="#FFFFFF" font-family="{{TITLE_FONT}}" font-size="18" font-weight="bold">
+    {{LOGO}}
+  </text>
+
+  <!-- 主标题 -->
+  <text x="640" y="320" text-anchor="middle" fill="{{PRIMARY}}" font-family="{{TITLE_FONT}}" font-size="56" font-weight="bold">
+    {{TITLE}}
+  </text>
+
+  <!-- 副标题 -->
+  <text x="640" y="390" text-anchor="middle" fill="{{TEXT_SECONDARY}}" font-family="{{BODY_FONT}}" font-size="24">
+    {{SUBTITLE}}
+  </text>
+
+  <!-- 装饰分割线 -->
+  <line x1="420" y1="430" x2="860" y2="430" stroke="{{ACCENT}}" stroke-width="2"/>
+  <circle cx="640" cy="430" r="5" fill="{{ACCENT}}"/>
+
+  <!-- 信息行 -->
+  <text x="640" y="500" text-anchor="middle" fill="{{TEXT_COLOR}}" font-family="{{BODY_FONT}}" font-size="20">
+    {{INFO}}
+  </text>
+
+  <!-- 底部装饰 -->
+  <rect x="0" y="665" width="1280" height="55" fill="{{HEADER_BG}}" fill-opacity="0.08"/>
+  <text x="640" y="698" text-anchor="middle" fill="{{TEXT_LIGHT}}" font-family="{{BODY_FONT}}" font-size="14">
+    {{DATE}}
+  </text>
+</svg>

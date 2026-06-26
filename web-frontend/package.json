@@ -1,0 +1,33 @@
+{
+  "name": "dingtalk-bot-admin",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.0",
+    "@lucide/vue": "^1.21.0",
+    "@vueuse/core": "^14.3.0",
+    "axios": "^1.6.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "element-plus": "^2.4.0",
+    "lucide-vue-next": "^1.0.0",
+    "radix-vue": "^1.9.17",
+    "tailwind-merge": "^3.6.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "vite": "^5.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "AST20260618001",
+    "name": "篮球",
+    "category": "教学设备",
+    "location": "体育馆",
+    "status": "在用",
+    "purchase_date": "2026-6-18",
+    "responsible_user": "晓融",
+    "description": "",
+    "class_name": "二年级2班",
+    "borrow_records": [
+      {
+        "borrower": "启拓",
+        "borrow_date": "2026-06-18 16:40:48",
+        "return_date": "2026-06-18 16:40:56"
+      },
+      {
+        "borrower": "1",
+        "borrow_date": "2026-06-22 11:27:43",
+        "return_date": "2026-06-22 11:27:48"
+      }
+    ],
+    "created_at": "2026-06-18 16:40:41",
+    "updated_at": "2026-06-22 12:54:21"
+  }
+]

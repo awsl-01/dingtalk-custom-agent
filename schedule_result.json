@@ -1,0 +1,472 @@
+{
+  "entries": [
+    {
+      "id": "entry_0",
+      "class_id": "c1",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 1,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_1",
+      "class_id": "c1",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 1,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_2",
+      "class_id": "c1",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 1,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_3",
+      "class_id": "c1",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 1,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_4",
+      "class_id": "c1",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 1,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_5",
+      "class_id": "c1",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 2,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_6",
+      "class_id": "c1",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 2,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_7",
+      "class_id": "c1",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 2,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_8",
+      "class_id": "c1",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 2,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_9",
+      "class_id": "c1",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 2,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_10",
+      "class_id": "c1",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 3,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_11",
+      "class_id": "c1",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 3,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_12",
+      "class_id": "c1",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 3,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_13",
+      "class_id": "c1",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 3,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_14",
+      "class_id": "c1",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 3,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_15",
+      "class_id": "c2",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 4,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_16",
+      "class_id": "c2",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 4,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_17",
+      "class_id": "c2",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 4,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_18",
+      "class_id": "c2",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 4,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_19",
+      "class_id": "c2",
+      "course_id": "math",
+      "teacher_id": "t1",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 4,
+        "period_type": "上午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_20",
+      "class_id": "c2",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 5,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_21",
+      "class_id": "c2",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 5,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_22",
+      "class_id": "c2",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 5,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_23",
+      "class_id": "c2",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 5,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_24",
+      "class_id": "c2",
+      "course_id": "chinese",
+      "teacher_id": "t2",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 5,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_25",
+      "class_id": "c2",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 6,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_26",
+      "class_id": "c2",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 6,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_27",
+      "class_id": "c2",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 6,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_28",
+      "class_id": "c2",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周四",
+        "period": 6,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_29",
+      "class_id": "c2",
+      "course_id": "english",
+      "teacher_id": "t3",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周五",
+        "period": 6,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_30",
+      "class_id": "c1",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 7,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_31",
+      "class_id": "c1",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 7,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_32",
+      "class_id": "c1",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 7,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_33",
+      "class_id": "c2",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周一",
+        "period": 8,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_34",
+      "class_id": "c2",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周二",
+        "period": 8,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    },
+    {
+      "id": "entry_35",
+      "class_id": "c2",
+      "course_id": "physics",
+      "teacher_id": "t4",
+      "classroom_id": "r1",
+      "time_slot": {
+        "weekday": "周三",
+        "period": 8,
+        "period_type": "下午"
+      },
+      "is_fixed": false
+    }
+  ]
+}
